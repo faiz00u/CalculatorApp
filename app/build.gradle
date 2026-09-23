@@ -1,0 +1,15 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.faiz00u.calculator'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.faiz00u.calculator'
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+}
+
